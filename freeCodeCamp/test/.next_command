@@ -160,3 +160,5 @@ touch client/assets/fonts/lato-light.ttf
 find
 rm -help
 rm --help
+find
+rm -r fonts
