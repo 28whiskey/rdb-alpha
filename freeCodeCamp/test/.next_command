@@ -132,3 +132,4 @@ mv background.jpg client/assets/images
 rm background.jpg
 cd ..
 rmdir images
+ls --color=auto =l
