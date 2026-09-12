@@ -141,3 +141,4 @@ mkdir icons client/assets
 touch icons client/assets
 mkdir touch client/assets
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons
