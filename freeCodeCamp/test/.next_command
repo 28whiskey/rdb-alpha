@@ -133,3 +133,11 @@ rm background.jpg
 cd ..
 rmdir images
 ls --color=auto =l
+ls --color=auto -l
+cd client
+ls --color=auto -l
+cd ..
+mkdir icons client/assets
+touch icons client/assets
+mkdir touch client/assets
+mkdir client/assets/icons
