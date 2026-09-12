@@ -152,3 +152,4 @@ touch roboto-bold.woff client/assets/fonts
 mkdir roboto-bold.woff client/assets/fonts
 touch client/assets/icons/roboto-bold.woff
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
