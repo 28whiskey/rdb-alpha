@@ -130,3 +130,5 @@ cd images
 ls --color=auto -l
 mv background.jpg client/assets/images
 rm background.jpg
+cd ..
+rmdir images
