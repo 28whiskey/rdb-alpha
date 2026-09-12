@@ -110,3 +110,4 @@ find
 cd clients/assets
 cd client/assets
 mkdir images
+cd images
