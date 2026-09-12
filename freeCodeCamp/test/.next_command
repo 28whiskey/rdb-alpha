@@ -189,3 +189,5 @@ find website-boilerplate
 clear
 echo goodbye terminal
 exit
+cd website
+ls --color=auto -l
