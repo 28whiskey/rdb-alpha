@@ -101,3 +101,12 @@ find
 cd client
 mkdir assets
 cd assets
+find
+cd website
+cd../../..
+cd ../../..
+cd website
+find
+cd clients/assets
+cd client/assets
+mkdir images
